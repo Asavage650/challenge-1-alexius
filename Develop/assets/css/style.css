@@ -101,17 +101,17 @@ p {
     color: #ffffff;
 }
 
-.benefit-lead h3 {
+.benefit-lead h1 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-brand h3 {
+.benefit-brand h1 {
     margin-bottom: 10px;
     text-align: center;
 }
 
-.benefit-cost h3 {
+.benefit-cost h1 {
     margin-bottom: 10px;
     text-align: center;
 }
@@ -163,7 +163,7 @@ p {
 
 .search-engine-optimization img {
     max-height: 200px;
-    display: flex;
+
 }
 
 .online-reputation-management img {
