@@ -6,7 +6,11 @@
 - [Credits](#credits)
 - [License](#license)
 ## Installation
+## Install as you would normally install a contributed Drupal module.  Visit https://www.drupal.org/node/1897420 for further information.
 ## Usage
+## This can be used as a tool to navigate browsers and to help future code students with refactoring code.
 ## Credits
+## This code was derived from starter code within module 1 most of the code derived from there.
 ## License
+## Please refer to license on github.
 
