@@ -11,7 +11,7 @@
 ## Usage
 ## This can be used as a tool to navigate browsers and to help future code students with refactoring code.
 ## Credits
-## This code was derived from starter code within module 1 most of the code derived from there. Also had help from tutors in slack.
+## This code was derived from starter code within module 1 most of the code is derived from there. Also had help from tutors in slack.
 ## License
 ## Please refer to license on github.
 
